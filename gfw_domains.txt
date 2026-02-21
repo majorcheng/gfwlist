@@ -131,6 +131,7 @@ akamai.net
 akamaized.net
 akiba-online.com
 akiba-web.com
+akile.io
 akinator.com
 akow.org
 alabout.com
@@ -652,6 +653,7 @@ civilmedia.tw
 civitai.com
 cixiaoya.club
 ck101.com
+clashverge.dev
 classicalguitarblog.net
 claude.ai
 clearsurance.com
@@ -2185,6 +2187,7 @@ mediachinese.com
 mediafreakcity.com
 mediawiki.org
 medium.com
+meee.com.tw
 meetup.com
 mega.co.nz
 mega.io
@@ -2467,6 +2470,7 @@ nutsvpn.work
 nuuvem.com
 nvdst.com
 nvtongzhisheng.org
+nxtrace.org
 nyaa.eu
 nyaa.si
 nybooks.com
@@ -2530,6 +2534,7 @@ oojj.de
 ooni.io
 ooni.org
 openai.com
+opencritic.com
 opendemocracy.net
 openid.net
 openleaks.org
