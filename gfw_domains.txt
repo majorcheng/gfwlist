@@ -947,6 +947,7 @@ edubridge.com
 edx-cdn.org
 eesti.ee
 eevpn.com
+eff.org
 efksoft.com
 efukt.com
 eic-av.com
@@ -3567,6 +3568,7 @@ underwoodammo.com
 unholyknight.com
 unicode.org
 unirule.cloud
+uniswap.org
 unknownspace.org
 unlock-music.dev
 unmineable.com
