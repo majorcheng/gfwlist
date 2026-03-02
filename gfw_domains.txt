@@ -656,6 +656,7 @@ ck101.com
 clashverge.dev
 classicalguitarblog.net
 claude.ai
+claude.com
 clearsurance.com
 clementine-player.org
 clinica-tibet.ru
@@ -1828,7 +1829,6 @@ imagevenue.com
 imagezilla.net
 imago-images.com
 imb.org
-imdb.com
 img.ly
 imgasd.com
 imgchili.net
@@ -2158,6 +2158,7 @@ mangafox.com
 mangafox.me
 mangmang.run
 manta.com
+manus.im
 manyvoices.news
 marc.info
 martau.com
