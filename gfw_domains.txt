@@ -2205,7 +2205,6 @@ mediafreakcity.com
 mediawiki.org
 medium.com
 meee.com.tw
-meetup.com
 mega.co.nz
 mega.io
 mega.nz
@@ -2276,6 +2275,7 @@ mirrorbooks.com
 mirrormedia.mg
 missav.com
 missav.ws
+mistral.ai
 mit.edu
 mitbbs.com
 miuipolska.pl
@@ -2798,7 +2798,6 @@ pursuestar.com
 putty.org
 pximg.net
 python.com.tw
-pytorch.org
 qbittorrent.org
 qgirl.com.tw
 qi-gong.me
