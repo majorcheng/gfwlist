@@ -121,7 +121,6 @@ ai.studio
 aiosearch.com
 aiph.net
 airconsole.com
-aircrack-ng.org
 airitilibrary.com
 airvpn.org
 ait.org.tw
@@ -1696,8 +1695,6 @@ hitomi.la
 hiveon.net
 hk-pub.com
 hk01.com
-hkacg.com
-hkacg.net
 hkbookcity.com
 hkchronicles.com
 hkcnews.com
@@ -2342,7 +2339,6 @@ muzi.com
 muzi.net
 muzu.tv
 mvg.jp
-mx981.com
 my-private-network.co.uk
 myaudiocast.com
 mybet.com
@@ -2551,6 +2547,7 @@ oojj.de
 ooni.io
 ooni.org
 openai.com
+openart.ai
 opencritic.com
 opendemocracy.net
 openid.net
@@ -2929,13 +2926,6 @@ rutracker.org
 rxhj.net
 s-cute.com
 s3-ap-northeast-1.amazonaws.com
-s3-ap-northeast-2.amazonaws.com
-s3-ap-southeast-1.amazonaws.com
-s3-ap-southeast-2.amazonaws.com
-s3-eu-central-1.amazonaws.com
-s3.ap-northeast-2.amazonaws.com
-s3.eu-central-1.amazonaws.com
-s3.us-east-1.amazonaws.com
 s4miniarchive.com
 sacks.com
 sacom.hk
@@ -3726,7 +3716,6 @@ vrchat.com
 vrporn.com
 vrsmash.com
 vtunnel.com
-vuku.cc
 vultryhw.com
 vzw.com
 w-pool.com
@@ -3913,7 +3902,6 @@ xicons.org
 xing.com
 xinjiangpolicefiles.org
 xinmiao.com.hk
-xjp.cc
 xjtravelguide.com
 xm.com
 xml-training-guide.com
