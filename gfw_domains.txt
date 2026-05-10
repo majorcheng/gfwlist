@@ -811,6 +811,7 @@ darpa.mil
 darrenliuwei.com
 dashlane.com
 data-vocabulary.org
+data18.com
 datalabour.com
 daum.net
 david-kilgour.com
@@ -920,6 +921,7 @@ dropboxapi.com
 dropboxusercontent.com
 dscn.info
 dstk.dk
+dt18.com
 dtiblog.com
 dtic.mil
 dubox.com
