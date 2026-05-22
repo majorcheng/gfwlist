@@ -27,6 +27,7 @@
 2047.one
 2049bbs.xyz
 233abc.com
+24hbook.com
 24hrs.ca
 32red.com
 36rain.com
@@ -2197,6 +2198,7 @@ martinoei.com
 martsangkagyuofficial.org
 marxist.net
 marxists.org
+mas.to
 mash.to
 mastodon.cloud
 mastodon.host
@@ -2410,6 +2412,7 @@ ncol.com
 ndi.org
 nekoslovakia.net
 neo-miracle.com
+neodb.social
 neoforged.net
 neowin.net
 nephobox.com
