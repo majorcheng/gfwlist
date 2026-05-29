@@ -251,6 +251,7 @@ arte.tv
 artstation.com
 arvanstorage.ir
 arweave.org
+as.mr
 asacp.org
 asiaharvest.org
 asianage.com
@@ -307,6 +308,7 @@ bangchen.net
 bangdream.space
 bangkokpost.com
 bangumi.moe
+bangumi.tv
 bangyoulater.com
 bankmobilevibe.com
 bannedbook.org
@@ -353,6 +355,7 @@ bettween.com
 betvictor.com
 bfnn.org
 bfsh.hk
+bgm.tv
 bgme.me
 bgvpn.com
 biblesforamerica.org
@@ -594,6 +597,7 @@ chenpokong.com
 chenpokongvip.com
 cherrysave.com
 chhongbi.org
+chii.in
 china-mmm.net
 china-review.com.ua
 china-week.com
@@ -690,7 +694,6 @@ cmule.com
 cmx.im
 cn-proxy.com
 cna.com.tw
-cnbc.com
 cnbeta.com.tw
 cnd.org
 cnpolitics.org
@@ -1274,6 +1277,7 @@ gdaily.org
 geek-art.net
 gekikame.com
 gelbooru.com
+gencraft.com
 generated.photos
 genius.com
 geph.io
@@ -1693,6 +1697,7 @@ heyuedi.com
 hicairo.com
 hiccears.com
 hidden-advent.org
+hiddify.com
 hide.me
 hideipvpn.com
 hideman.net
@@ -3114,7 +3119,6 @@ socialblade.com
 socks-proxy.net
 sockslist.net
 socrec.org
-softether-download.com
 softether.co.jp
 softether.org
 softfamous.com
@@ -3685,6 +3689,7 @@ vaticannews.va
 vatn.org
 vcf-online.org
 vcfbuilder.org
+veed.io
 vegasred.com
 venetianmacao.com
 ventureswell.com
@@ -4022,7 +4027,6 @@ yeyeclub.com
 yfsp.tv
 yhcw.net
 yibaochina.com
-yidio.com
 yigeni.com
 yimg.com
 yipub.com
