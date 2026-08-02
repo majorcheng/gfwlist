@@ -581,6 +581,7 @@ centauro.com.br
 centerforhumanreprod.com
 centralnation.com
 centurys.net
+cerebras.ai
 certificate-transparency.org
 cfr.org
 cfsh99.com
@@ -657,6 +658,7 @@ chromecast.com
 chromeexperiments.com
 chromestatus.com
 chromium.org
+cht.com.tw
 ci-en.jp
 cia.gov
 cici.com
@@ -674,7 +676,6 @@ civilmedia.tw
 civitai.com
 cixiaoya.club
 ck101.com
-clashverge.dev
 clashyun.com
 classicalguitarblog.net
 claude.ai
@@ -2414,7 +2415,6 @@ mosavi.io
 motherless.com
 movements.org
 moviefap.com
-mozilla.ai
 mozilla.org
 moztw.org
 mpettis.com
@@ -2893,7 +2893,6 @@ pullfolio.co
 pure18.com
 pureapk.com
 pureconcepts.net
-puredns.org
 pureinsight.org
 purepdf.com
 purevpn.com
@@ -2935,7 +2934,6 @@ radio.co
 radio.garden
 radioaustralia.net.au
 radiohilight.net
-radiojar.com
 radioline.co
 radiovaticana.org
 radiovncr.com
@@ -3050,7 +3048,6 @@ sadpanda.us
 safechat.com
 safeguarddefenders.com
 safervpn.com
-sagernet.org
 saintyculture.com
 sakuralive.com
 salvation.org.hk
