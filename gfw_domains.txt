@@ -3742,6 +3742,7 @@ urbansurvival.com
 urchin.com
 urlborg.com
 urlparser.com
+us-west-2.amazonaws.com
 usacn.com
 usaip.eu
 uscardforum.com
@@ -3972,6 +3973,7 @@ williamhill.com
 willw.net
 wilsoncenter.org
 windscribe.com
+windy.com
 wingamestore.com
 wingy.site
 wionews.com
