@@ -463,6 +463,7 @@ break.com
 breakgfw.com
 breakingtweets.com
 breakwall.net
+briarproject.org
 brill.com
 brizzly.com
 broadpressinc.com
@@ -597,6 +598,7 @@ chaos.social
 character.ai
 chat.com
 chatgpt.com
+chatgpt.site
 chatpdf.com
 chaturbate.com
 checkgfw.com
