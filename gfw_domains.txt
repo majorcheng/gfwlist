@@ -1339,6 +1339,7 @@ geti2p.net
 getlantern.org
 getmalus.com
 getmdl.io
+getmonero.org
 getoutline.org
 getsession.org
 getsync.com
@@ -2538,6 +2539,7 @@ ng.mil
 nga.mil
 nhentai.net
 nic.gov
+nicoseiga.jp
 nicovideo.jp
 nightlife141.com
 nightswatch.top
