@@ -782,6 +782,7 @@ csmonitor.com
 csuchen.de
 csw.org.uk
 ct.org.tw
+ctee.com.tw
 ctinets.com
 ctinews.com
 ctinsider.com
@@ -1772,6 +1773,7 @@ hkchronicles.com
 hkcnews.com
 hkcoc.com
 hkdc.us
+hkej.com
 hket.com
 hkfaa.com
 hkgalden.com
@@ -2186,6 +2188,7 @@ linkedin.com
 linktr.ee
 linux.do
 linux.org.hk
+linux.sb
 liquiditytp.com
 liquidvpn.com
 list-manage.com
