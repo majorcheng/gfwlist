@@ -1403,6 +1403,7 @@ gmp4.com
 gmx.net
 gnci.org.hk
 gnews.org
+go-mpulse.net
 go-to-zlibrary.se
 go141.com
 go5.dev
@@ -2931,6 +2932,7 @@ qiangyou.org
 qianmo.tw
 qiwen.lu
 qmp4.com
+qobuz.com
 qoos.com
 qq.co.za
 qstatus.com
@@ -3804,6 +3806,7 @@ valeursactuelles.com
 vansky.com
 vaticannews.va
 vatn.org
+vava8.com
 vcf-online.org
 vcfbuilder.org
 veed.io
