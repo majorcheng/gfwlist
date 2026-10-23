@@ -2070,6 +2070,7 @@ journalofdemocracy.org
 jqueryui.com
 jsdelivr.net
 jshell.net
+jspm.io
 jtvnw.net
 jukujo-club.com
 juliepost.com
@@ -3753,6 +3754,7 @@ tybio.com.tw
 tycool.com
 typekit.net
 typepad.com
+typesafe.ai
 typeset.io
 typora.io
 u15.info
