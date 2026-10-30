@@ -286,6 +286,7 @@ athenaeizou.com
 atlanta168.com
 atnext.com
 audacy.com
+auth0.com
 autodraw.com
 av.movie
 av01.tv
@@ -477,6 +478,7 @@ broadpressinc.com
 brookings.edu
 brutaltgp.com
 bsky.app
+bsky.chat
 bsky.network
 bsky.social
 bt4g.org
@@ -692,7 +694,10 @@ ck101.com
 clashyun.com
 classicalguitarblog.net
 claude.ai
+claude.app
 claude.com
+claudemcpcontent.com
+claudeusercontent.com
 clearsurance.com
 clementine-player.org
 clinica-tibet.ru
