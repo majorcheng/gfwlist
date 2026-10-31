@@ -3507,6 +3507,7 @@ thehindu.com
 thehun.net
 theinitium.com
 theintercept.com
+themoviedb.org
 thenewslens.com
 thepiratebay.org
 theporndude.com
@@ -3642,6 +3643,7 @@ torlock.com
 torproject.org
 torrentgalaxy.to
 torrentkitty.tv
+torrentleech.org
 torrentprivacy.com
 torrentproject.se
 torrenty.org
@@ -4242,6 +4244,7 @@ youtubeeducation.com
 youtubegaming.com
 youtubekids.com
 youversion.com
+youversionapi.com
 youwin.com
 youxu.info
 yt.be
