@@ -716,7 +716,9 @@ clyp.it
 cmcn.org
 cmegroup.com
 cmi.org.tw
+cmmedia.com.tw
 cmoinc.org
+cmoney.tw
 cms.gov
 cmu.edu
 cmule.com
@@ -726,6 +728,7 @@ cna.com.tw
 cnbeta.com.tw
 cnd.org
 cnpolitics.org
+cnyes.com
 coat.co.jp
 cobinhood.com
 cochina.org
@@ -966,6 +969,7 @@ dt18.com
 dtiblog.com
 dtic.mil
 dubox.com
+duck.ai
 duck.com
 duckduckgo.com
 duckmylife.com
@@ -990,6 +994,7 @@ e-classical.com.tw
 e-gold.com
 e-hentai.org
 e-hentaidb.com
+e-info.org.tw
 e-zone.com.hk
 e123.hk
 e621.net
@@ -1320,10 +1325,10 @@ gab.com
 gabocorp.com
 gagaoolala.com
 galenwu.com
-game735.com
 gamer.com.tw
 gamerp.jp
 gamez.com.tw
+gamma.app
 ganjing.com
 ganjingworld.com
 gaoming.net
@@ -1698,6 +1703,7 @@ greasyfork.org
 greatfire.org
 greatfirevpn.com
 greatfirewallofchina.org
+greenbean.media
 greenpeace.org
 greenvpn.net
 grindr.com
@@ -1797,12 +1803,15 @@ hk-pub.com
 hk01.com
 hkbookcity.com
 hkchronicles.com
+hkcitycreation.com
 hkcnews.com
 hkcoc.com
+hkcourtnews.com
 hkdc.us
 hkej.com
 hket.com
 hkfaa.com
+hkfeature.com
 hkgalden.com
 hkgolden.com
 hkgpao.com
@@ -2207,6 +2216,7 @@ libgen.is
 library-access.sk
 libredd.it
 lifemiles.com
+lifesitenews.com
 lighten.org.tw
 lighti.me
 lightnovel.cn
@@ -2215,6 +2225,7 @@ lih.kg
 lihkg.com
 like.com
 lilaoshibushinilaoshi.com
+limedia.tw
 line-apps.com
 line-scdn.net
 line.me
@@ -2314,6 +2325,7 @@ marxist.net
 marxists.org
 mas.to
 mash.to
+master-insight.com
 mastodon.cloud
 mastodon.host
 mastodon.online
@@ -2450,6 +2462,7 @@ momoshop.com.tw
 mondex.org
 money-link.com.tw
 moneydj.com
+moneynet.com.tw
 monica.im
 monitorchina.org
 monitorware.com
@@ -2494,6 +2507,7 @@ muzi.com
 muzi.net
 muzu.tv
 mvg.jp
+my-formosa.com.tw
 my-private-network.co.uk
 myaudiocast.com
 mybet.com
@@ -2574,6 +2588,7 @@ newtalk.tw
 newthuhole.com
 newyorker.com
 nexon.com
+nextapple.com
 nextdigital.com.hk
 nexton-net.jp
 nexttv.com.tw
@@ -2772,6 +2787,7 @@ parse.com
 parsevideo.com
 partnerstack.xyz
 passion.com
+passiontimes.hk
 paste.ee
 pastie.org
 pathtosharepoint.com
@@ -2959,6 +2975,7 @@ pubu.com.tw
 puffinbrowser.com
 pugpig.com
 pullfolio.co
+pulsehknews.com
 pure18.com
 pureapk.com
 pureconcepts.net
@@ -3187,6 +3204,7 @@ shadowsocks.nu
 shadowsocks.org
 shafaqna.com
 shahit.biz
+shanghainationalparty.com
 share-videos.se
 sharecool.org
 shattered.io
@@ -3224,6 +3242,7 @@ sina.com.hk
 sinchew.com.my
 singaporepools.com.sg
 singlelogin.se
+singpao.com.hk
 singtao.com
 singtaousa.com
 sinoants.com
@@ -3293,6 +3312,7 @@ sosreader.com
 sotwe.com
 soubory.com
 soulcaliburhentai.net
+soulogic.com
 soundcloud.com
 soundofhope.org
 soundon.fm
@@ -3430,6 +3450,7 @@ taiwanjustice.net
 taiwanncf.org.tw
 taiwannews.com.tw
 taiwanonline.cc
+taiwantoday.tw
 taiwantt.org.tw
 talkatone.com
 talkboxapp.com
@@ -3495,6 +3516,7 @@ thebobs.com
 thebodyshop-usa.com
 thechasernews.co.uk
 thechinacollection.org
+thecollectivehk.com
 theconversation.com
 thedalailamamovie.com
 thediplomat.com
@@ -3511,18 +3533,22 @@ theinitium.com
 theintercept.com
 themoviedb.org
 thenewslens.com
+theonlinecitizen.com
 thepiratebay.org
 theporndude.com
 theportalwiki.com
 theprint.in
 thesaturdaypaper.com.au
+thestandard.com.hk
 thestandnews.com
+thestar.com
 thetatoken.org
 thetibetpost.com
 thetvdb.com
 theweek.com
 thewgo.org
 thewirechina.com
+thewitnesshk.com
 theync.com
 thinkchina.sg
 thinkgeek.com
@@ -4086,6 +4112,7 @@ wo.tc
 woeser.com
 wokar.org
 wolfax.com
+womany.net
 wombo.ai
 woolyss.com
 woopie.jp
